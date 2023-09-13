@@ -1,0 +1,155 @@
+﻿Assignment  question   answers:
+
+
+1.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> </title>
+</head>
+<body>
+    <h1>HTML defines the content and structure of your website</h1>
+</body>
+</html>
+
+
+2.
+So, if we comment out anything in HTML it is not rendered on the web page. so,we can do it by including “<!-- and-->”tags.        For example:
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Web Page</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+   
+    <!--
+    <p>This paragraph is temporarily commented out.</p>
+    <p>Another paragraph that won't be displayed.</p>
+    -->
+</body>
+</html>
+
+
+ Here, both the line “This is temporarily commented out” and
+“Another paragraph that won’t be displayed” are currently commented in this HTML code.
+
+
+3.
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <h1>HTML serves as the foundational structure and layout of a web page</h1>
+   
+    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. <br> Quidem asperiores voluptates natus molestiae sint sapiente labore maxime, ducimus rerum quisquam.</p>
+
+
+    <hr>
+</body>
+</html>
+
+
+ In this HTMl code I have included a heading,a paragraph text,a horizontal line and a line break.
+ 
+4.
+In HTML,tag is used to define structure and format  of a web page,specifying heading,paragraphs,lists,links,images,forms and much more.Each HTML tag has a specific purpose and defines how its content should be rendered. Few HTML tags are:
+(i)<h1>,<h2>,....,<h6>
+<h1>being the highest level and <h6>being the lowest
+(ii)<p>:paragraph
+(iii)<div>:Division
+(iv)<a>:anchor 
+Etc.
+
+
+Elements: An HTML element is defined by a start tag,some content and an end tag.
+For example:
+<start tag>some content<end tag>
+
+
+5.
+A DOCTYPE declaration in HTML is a document header that specifies the type of content and version in an HTMl document.
+ 
+
+
+
+
+                  Assignment question answers:
+
+
+1.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> </title>
+</head>
+<body>
+    <h1>HTML defines the content and structure of your website</h1>
+</body>
+</html>
+
+
+2.
+So, if we comment out anything in HTML it is not rendered on the web page. so,we can do it by including “<!-- and-->”tags.        For example:
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Web Page</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+   
+    <!--
+    <p>This paragraph is temporarily commented out.</p>
+    <p>Another paragraph that won't be displayed.</p>
+    -->
+</body>
+</html>
+
+
+ Here, both the line “This is temporarily commented out” and
+“Another paragraph that won’t be displayed” are currently commented in this HTML code.
+
+
+3.
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <h1>HTML serves as the foundational structure and layout of a web page</h1>
+   
+    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. <br> Quidem asperiores voluptates natus molestiae sint sapiente labore maxime, ducimus rerum quisquam.</p>
+
+
+    <hr>
+</body>
+</html>
+
+
+ In this HTMl code I have included a heading,a paragraph text,a horizontal line and a line break.
+ 
+4.
+In HTML,tag is used to define structure and format  of a web page,specifying heading,paragraphs,lists,links,images,forms and much more.Each HTML tag has a specific purpose and defines how its content should be rendered. Few HTML tags are:
+(i)<h1>,<h2>,....,<h6>
+<h1>being the highest level and <h6>being the lowest
+(ii)<p>:paragraph
+(iii)<div>:Division
+(iv)<a>:anchor 
+Etc.
+
+
+Elements: An HTML element is defined by a start tag,some content and an end tag.
+For example:
+<start tag>some content<end tag>
+
+
+5.
+A DOCTYPE declaration in HTML is a document header that specifies the type of content and version in an HTMl document.
