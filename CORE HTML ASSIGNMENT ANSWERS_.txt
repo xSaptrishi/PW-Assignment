@@ -1,0 +1,463 @@
+﻿CORE HTML ASSIGNMENT ANSWERS:
+
+
+1.<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PW ASSIGNMENT 2</title>
+</head>
+<body>
+    <p><strong>This text will be bolded.</strong></p>
+    <p><em>This text will be italic.</em></p>
+    <p><u>This text will be underline.</u></p>
+    <p style="background-color: yellow;display: inline;">This text will be highlighted.</p>
+    <p>This is normal text <sup>This will be super scripted</sup> This will be again normal</p>
+    <p>This is normal text <sub>This is subscripted text </sub></p>
+    <p>Normal text <small>small text</small></p>
+    <p> <s>This text will be deleted </s> </p>
+</body>
+</html>
+
+
+2.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PW assignment</title>
+</head>
+<body>
+    <h1> NAVIGATE ME: </h1>  
+    <p><a href="http://pwskills.com" target="_blank">Take me to PW skills to buy a course.</a></p>
+    <p><a href="https://developer.mozilla.org/en-US/" target="_blank">MDN docs to know more about web development.</a></p>
+    <p><a href="https://lab.pwskills.com/" target="_blank">PW Skills lab to practice live coding.</a></p>
+   
+</body>
+</html>
+
+
+3.
+Home page
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href="dev.html" target="_blank">Go to  web development</a><br>
+    <a href="design.html" target="_blank">Go to web design</a>
+    <h1>About myself</h1>
+    <p> "Hello, I am Saptrishi Majumdar, currently pursuing my Bachelor of Technology degree at Heritage Institute of Technology, Kolkata. I'm currently in my second year, and after conducting some research, I have found web development to be a very interesting field to get started with. I am excited to explore the world of web development and learn more about creating websites and web applications."  </p>
+</body>
+</html>
+
+
+Web development page
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href="home.html" target="_blank">Go to home page</a><br>
+    <a href="design.html" target="_blank">Go to web design</a>
+    <h1>Web development</h1>
+    <p>Certainly, here's a concise summary of web development:
+
+
+        Web development is the process of creating websites and web applications that can be accessed over the internet. It encompasses both front-end development, which focuses on designing the user interface using HTML, CSS, and JavaScript, and back-end development, which involves server-side programming and database management. Full-stack developers are proficient in both areas.
+       
+        Key components of web development include responsive design to ensure compatibility with various devices, the use of frameworks and libraries for efficient development, and a strong emphasis on web security to protect user data. Continuous learning is essential, as the field is constantly evolving. Collaboration, testing, and debugging are also crucial aspects of successful web development projects.</p>
+</body>
+</html>
+
+
+Web design page
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href="home.html" target="_blank style" >Go to home page </a><br>
+    <a href="dev.html" target="_blank">Go to web development</a>
+    <h1>web design</h1>
+    <p>Web design is the process of crafting visually appealing and user-friendly websites. It prioritizes user experience, responsive layouts, and accessibility. Designers use tools like Adobe XD or Figma to create layouts and visual elements, ensuring compatibility across devices. Collaboration with developers and usability testing play vital roles in optimizing websites for effective and engaging user interactions, while staying updated with design trends is essential for modern web design.</p>
+</body>
+</html>
+
+
+So, according to question 3 pages first on the homepage, second one about web development and third containing web design. 
+
+
+4.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+<body>
+    <ol>
+        <li><html>:Define the root of an HTML document</li>
+        <li><head>:Contain the metadata about the HTML document</li>
+        <li><br>:Used for inserting a line break</li>    
+        <li><hr>:For creating a horizontal line</li>
+        <li><h1>,<h2>,.....,<h6>:Defines heading of different levels </li>
+        <li><p>:Represent a paragraph</li>    
+        <li><a>:Creates hyperlink to other web pages </li>    
+        <li><img>:Embeds image in document</li>    
+        <li><ul>:Defines an unordered list</li>
+        <li><div>:A generic container for grouping and styling elements</li>    
+        <li><table>:Defines a table</li>    
+        <li><tr>:Defines a table row</li>    
+        <li><th>:Defines a table header cell within a row </li>    
+        <li><style></style>:Embeds a inline css style for documents</li>
+        <li><meta>:Provides meta about HTML document like character encoding or author information</li>
+    </ol>
+</body>
+</html>
+
+
+5.
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Full Stack Web Development Tech Stack</title>
+</head>
+<body>
+    <dl>
+        <dt>Frontend:</dt>
+        <dd>
+            <p>Frontend technologies are responsible for the user interface and user experience of a web application.</p>
+            <ul>
+                <li>HTML (HyperText Markup Language): Markup language for creating the structure of web pages.</li>
+                <li>CSS (Cascading Style Sheets): Used for styling and layout of web pages.</li>
+                <li>JavaScript: The programming language for adding interactivity and dynamic behavior to websites.</li>
+                <li>React: A JavaScript library for building user interfaces.</li>
+                <li>Vue.js: A progressive JavaScript framework for building user interfaces.</li>
+            </ul>
+        </dd>
+
+
+        <dt>Backend:</dt>
+        <dd>
+            <p>Backend technologies handle server-side logic, databases, and server operations.</p>
+            <ul>
+                <li>Node.js: A runtime environment for executing JavaScript on the server.</li>
+                <li>Express.js: A web application framework for Node.js.</li>
+                <li>Python: A versatile programming language often used for backend development.</li>
+                <li>Django: A high-level Python web framework.</li>
+                <li>Ruby: Another programming language often used for web development.</li>
+                <li>Ruby on Rails: A web application framework for Ruby.</li>
+            </ul>
+        </dd>
+
+
+        <dt>Database:</dt>
+        <dd>
+            <p>Databases store and manage data for web applications.</p>
+            <ul>
+                <li>SQL (Structured Query Language): A language for managing relational databases.</li>
+                <li>MySQL: An open-source relational database management system.</li>
+                <li>MongoDB: A NoSQL database for handling unstructured or semi-structured data.</li>
+                <li>PostgreSQL: An open-source relational database system known for its advanced features.</li>
+            </ul>
+        </dd>
+
+
+        <dt>Server:</dt>
+        <dd>
+            <p>Servers host web applications and serve them to users.</p>
+            <ul>
+                <li>Nginx: A popular web server known for its high performance and scalability.</li>
+                <li>Apache: A widely-used open-source web server.</li>
+            </ul>
+        </dd>
+
+
+        <dt>Version Control:</dt>
+        <dd>
+            <p>Version control systems help manage and track changes to code.</p>
+            <ul>
+                <li>Git: A distributed version control system.</li>
+                <li>GitHub: A web-based platform for hosting and collaborating on Git repositories.</li>
+                <li>Bitbucket: A web-based platform for Git and Mercurial version control.</li>
+            </ul>
+        </dd>
+    </dl>
+</body>
+</html>
+
+
+
+
+6.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        table,th,td {
+            border: 1px solid black;
+           
+        }
+       
+    </style>
+</head>
+<body>
+    <div>    
+        <h1>Web development tech stack </h1>
+
+
+        <h2>1.HTML(HyperText Markup language)</h2>
+   
+        <table>
+             <tr>
+                <th>Name</th>
+                <th>Primary uses</th>
+                <th>Key features</th>
+            </tr>
+
+
+            <tr>
+                <td>HTML</td>
+                <td>Structuring of webpage</td>
+                <td>
+                    <ul>
+                        <li>Easy to run</li>
+                        <li>Compatibility with web browser</li>
+                    </ul>    
+                </td>
+             </tr>
+        </table>    
+       
+     </div>
+
+
+    <br>
+
+
+    <div>    
+         <h2>2.CSS(Cascading style Sheets)</h2>    
+
+
+        <table>
+            <tr>
+                <th>Name</th>
+                <th>Primary use</th>
+                <th>Key features</th>
+            </tr>
+            <tr>
+                <td>CSS</td>
+                <td>Styling HTML</td>
+                <td>
+                    <ul>
+                        <li>Layout control</li>
+                        <li>Responsive design</li>
+                        <li>Separation of content from web pages</li>
+                    </ul>
+                 </td>
+             </tr>
+        </table>
+    </div>
+   
+    <div>
+            <h2>3.Javascript</h2>
+
+
+            <table>
+                <tr>
+                    <th>Name</th>
+                    <th>Primary use</th>
+                    <th>Key features</th>
+                </tr>
+                <tr>
+                    <td>Javascript</td>
+                    <td>client side ,scripting</td>
+                    <td>
+                        <ul>
+                            <li>Event handling</li>
+                            <li>wide browser support</li>
+                            <li>DOm manipulation</li>
+                        </ul>
+                    </td>
+                </tr>
+
+
+            </table>
+     </div>
+</body>
+</html>
+
+
+7.
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .table {
+            border: 3px solid #000000;
+            width: 400px;
+            height: 550px;
+        }
+
+
+        .table li {
+            color: blue;
+        }
+    </style>
+</head>
+
+
+<body>
+    <div class="table">
+
+
+        <h1>Table of contents</h1>
+
+
+        <ul>
+            <u>
+
+
+                <li>Part 1: Introduction</li>
+                <li>Part 2: Getting started </li>
+                <ul>
+                    <li>2.1: Installing the software</li>
+                    <li>2.2: Creating a new project</li>
+                    <ul>
+                        <li>2.2.1: Project Template</li>
+                        <li>2.2.1: customizing settings</li>
+                    </ul>
+                    <li>Exploring the interface</li>
+                    <ul>
+                        <li>2.3.1: Toolbar features</li>
+                        <li>2.3.2: Panel Layout</li>
+                        <ul>
+                            <li>2.3.2.1: Docking Panels</li>
+                            <li>2.3.2.2: Tabbed Interface</li>
+                        </ul>
+                    </ul>
+                </ul>
+        </ul>
+        <li>Part 3: Advanced Topics</li>
+        <ul>
+            <li>3.1 Working with Plugins</li>
+            <ul>
+                <li>3.1.1: Installing plugins</li>
+                <li>3.1.2: plugin configuration</li>
+            </ul>
+            <li>3.2 Customizing the UI</li>
+            <ul>
+                <li>3.2.1: Changing Themes</li>
+                <li>3.2.2: Configuring Shortcuts</li>
+            </ul>
+            <li>3.3 Optimizing performance
+                <ul>
+                    <li>3.3.1: Caching strategies</li>
+                    <li>3.3.2: Resource Minification</li>
+                </ul>
+            </li>
+        </ul>
+        <li>Part 4: Conclusion</li>
+        </u>
+    </div>
+</body>
+
+
+</html>
+
+
+8.
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table with Cell Padding</title>
+    <style>
+        table,
+        th,
+        td {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+
+
+<body>
+    <table cellpadding="10">
+        <h1>Conference schedule</h1>
+
+
+        <tr>
+            <th>Time</th>
+            <th>Room 1</th>
+            <th>Room 2</th>
+            <th>Room 3</th>
+            <th>Room 4</th>
+        </tr>
+        <tr>
+            <td rowspan="3">9:00 AM-10.00 AM</td>
+            <td rowspan="2">Keynote</td>
+            <td>Session A</td>
+            <td>Session B</td>
+            <td rowspan="3">Session C</td>
+        </tr>
+        <tr>
+            <td>session D</td>
+            <td>Session E</td>
+
+
+        </tr>
+        <tr>
+            <td>10:30 AM-11:30 AM </td>
+            <td colspan="2">Session F</td>
+
+
+        </tr>
+        <tr>
+            <td>12:00 PM-1:00 PM</td>
+            <td colspan="4">Lunch Break</td>
+        </tr>
+        <tr>
+            <td rowspan="2">1:00 PM-2:00 PM</td>
+            <td>Session G </td>
+            <td rowspan="2">Session H</td>
+            <td>Session I</td>
+            <td>Session J</td>
+        </tr>
+        <tr>
+            <td>Session K</td>
+            <td>Session L</td>
+            <td>Session M</td>
+        </tr>
+    </table>
+</body>
+
+
+</html>
